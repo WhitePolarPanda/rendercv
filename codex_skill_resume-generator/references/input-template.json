@@ -1,0 +1,68 @@
+{
+  "name": "First Last",
+  "contact": {
+    "email": "name@email.com",
+    "phone": "+1 (555) 555-5555",
+    "address": "City, State",
+    "website": "portfolio.com",
+    "linkedin": "linkedin.com/in/username",
+    "other": [
+      "additional contact line"
+    ]
+  },
+  "education": [
+    {
+      "school": "University Name",
+      "location": "City, State",
+      "degree": "Bachelor of Science",
+      "major": "Major",
+      "minor": "Minor",
+      "dates": "Aug 2020 - May 2024",
+      "gpa": "3.8/4.0",
+      "awards": [
+        "Dean's List (2021-2024)"
+      ],
+      "coursework": [
+        "Course 1",
+        "Course 2"
+      ]
+    }
+  ],
+  "professional_experience": [
+    {
+      "title": "Job Title",
+      "company": "Company",
+      "location": "City, State",
+      "dates": "Jun 2023 - Aug 2023",
+      "bullets": [
+        "Achievement or responsibility.",
+        "Impact-oriented bullet."
+      ]
+    }
+  ],
+  "leadership_experience": [
+    {
+      "title": "Leadership Role",
+      "company": "Organization",
+      "location": "City, State",
+      "dates": "Sep 2022 - May 2023",
+      "bullets": [
+        "Leadership achievement.",
+        "Program or event impact."
+      ]
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Skill 1",
+      "Skill 2"
+    ],
+    "languages": [
+      "Language 1",
+      "Language 2"
+    ],
+    "other": [
+      "Optional skill category"
+    ]
+  }
+}
