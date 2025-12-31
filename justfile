@@ -1,3 +1,4 @@
+set shell := ["powershell", "-NoProfile", "-Command"]
 # Development:
 sync:
   uv sync --frozen --all-extras
